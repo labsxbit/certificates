@@ -7,6 +7,9 @@ document.getElementById("programName").textContent = "Java Programming ( Integra
 // Set the completion date
 document.getElementById("completionDate").textContent = "Completed on March 10, 2023";
 
+// set the certificationId
+document.getElementById("certificationId").textContent = "Certification ID : RECO839YPU10032023Ri";
+
 // Set the achievement text
 document.getElementById("achievementText").textContent = "Ritika Kushwaha has demonstrated high level of proficiency and understanding of the course material. We commend her for the dedication and hard work during the course.";
 
