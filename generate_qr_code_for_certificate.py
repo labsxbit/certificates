@@ -23,6 +23,6 @@ logo_position = ((qr_width - logo_width) // 2, (qr_height - logo_height) // 2)
 qr_image.paste(logo_image, logo_position)
 
 # Save the final QR code with the logo
-output_path = "qr_code_with_logo.png"  # Replace with the desired output file path
+output_path = "credential.png"  # Replace with the desired output file path
 qr_image.save(output_path)
 
