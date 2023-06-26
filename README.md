@@ -3,6 +3,8 @@ It contains certificates of all who took training in XBit Labs
 
 How to generate certificate 
 steps:
+First generate a certificate ID using generate_certificate_id.py then follow these steps :
+
 1. Generate a QR code with logo image by running the script : <br>
 python3 generate_qr_code_for_certificate.py
 
