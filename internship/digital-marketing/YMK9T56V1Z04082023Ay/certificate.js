@@ -8,7 +8,7 @@ document.getElementById("programName").textContent = "Digital Marketing Training
 document.getElementById("completionDate").textContent = "Completed on August 04, 2023";
 
 // set the certificationId
-document.getElementById("certificationId").textContent = "Certification ID : "YMK9T56V1Z04082023Ay";
+document.getElementById("certificationId").textContent = "Certification ID : YMK9T56V1Z04082023Ay";
 
 // Set the achievement text
 document.getElementById("achievementText").textContent = "Ayush Sharma has successfully completed a one-month digital marketing internship at XBit Labs, and his dedication was commendable.";
